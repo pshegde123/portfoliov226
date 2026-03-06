@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfoliov226/static/css/main.e6c13ad2.css",
+    "main.js": "/portfoliov226/static/js/main.58319f8d.js",
+    "static/js/453.5f261247.chunk.js": "/portfoliov226/static/js/453.5f261247.chunk.js",
+    "static/media/trainscheduler.PNG": "/portfoliov226/static/media/trainscheduler.a8fc51b760831f163b5d.PNG",
+    "static/media/cookup.png": "/portfoliov226/static/media/cookup.d1772883b1184c53d337.png",
+    "static/media/rmapiapp.png": "/portfoliov226/static/media/rmapiapp.abd42afb961a6b4b252c.png",
+    "static/media/myflix_client.png": "/portfoliov226/static/media/myflix_client.6b2c0a11284a95caea96.png",
+    "static/media/game_hub.png": "/portfoliov226/static/media/game_hub.f1b4012f8655545d3db3.png",
+    "static/media/Pokedex.PNG": "/portfoliov226/static/media/Pokedex.8ec624320dcf903d4924.PNG",
+    "static/media/myflix.png": "/portfoliov226/static/media/myflix.fec29f67f35b4c1f662c.png",
+    "static/media/CliclyGameImage.PNG": "/portfoliov226/static/media/CliclyGameImage.77e610266cb1526e4eaa.PNG",
+    "static/media/chat_reactnative_app.png": "/portfoliov226/static/media/chat_reactnative_app.efb8c385108df6142aa2.png",
+    "static/media/meet-app-page.png": "/portfoliov226/static/media/meet-app-page.b8cbfef126ba0c7a55e0.png",
+    "static/media/validate-input.PNG": "/portfoliov226/static/media/validate-input.37e168dafe5f5b9ccbbc.PNG",
+    "index.html": "/portfoliov226/index.html",
+    "main.e6c13ad2.css.map": "/portfoliov226/static/css/main.e6c13ad2.css.map",
+    "main.58319f8d.js.map": "/portfoliov226/static/js/main.58319f8d.js.map",
+    "453.5f261247.chunk.js.map": "/portfoliov226/static/js/453.5f261247.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.58319f8d.js"
+  ]
+}
